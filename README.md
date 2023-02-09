@@ -5,7 +5,7 @@ A classic Blackjack game implemented in Lua programming language. The game featu
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-I run my game on VSCode with the application, LOVE2D. You can download the latest version of LOVE2D from the officia lhttps://love2d.org/ page. Please be sure to have the IDE (in this case VSCode) and LOVE2D installed before use.
+I run my game on VSCode with the application, LOVE2D. You can download the latest version of LOVE2D from the official https://love2d.org/ page. Please be sure to have the IDE (in this case VSCode) and LOVE2D installed before use.
 
 ## Installing
 To install the game, simply clone or download the repository to your local machine.
